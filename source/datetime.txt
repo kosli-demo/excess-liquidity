@@ -1,1 +1,1 @@
-excess-liquidity 1783701699
+excess-liquidity 1783745347
